@@ -1,5 +1,7 @@
 # 依赖目录
 node_modules/
+.DS_Store
+
 
 # 日志文件
 logs
@@ -32,9 +34,6 @@ build/
 *.swp
 *.swo
 
-# 操作系统文件
-.DS_Store
-Thumbs.db
 
 # 其他
 *.tmp
